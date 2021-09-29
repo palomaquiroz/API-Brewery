@@ -25,7 +25,7 @@ The following bugs were found:
 [Click here to read the bug report](https://drive.google.com/file/d/1LqmmjJDR80MKCB67KwbPKGcPzwwkLw-n/view?usp=sharing)
 
 # Task 2 description 
-The task was to create some tests using a framework of preference. As I don't have that much experience on automation coding for the backend, I've used [Postman] (https://www.postman.com/) as tool for creating a Collection of requests that includes automated tests in it.
+The task was to create some tests using a framework of preference. As I don't have that much experience on automation coding for the backend, I've used [Postman](https://www.postman.com/) as tool for creating a Collection of requests that includes automated tests in it.
 
 ### Dependencies & Preconditions
 * Postman is necessary
