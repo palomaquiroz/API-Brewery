@@ -29,8 +29,8 @@ The task was to create some tests using a framework of preference. As I don't ha
 
 ### Dependencies & Preconditions
 * Postman is necessary
-* Server must be raised
-
+* Server must be up and running  
+* 
 ### How to run the collection
 1. Download the 'BreweryAPI.postman_collection' file from this repository.
 2. Open Postman and choose any Workspace
