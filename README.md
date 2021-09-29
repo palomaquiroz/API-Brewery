@@ -30,9 +30,9 @@ The task was to create some tests using a framework of preference. As I don't ha
 ### Dependencies & Preconditions
 * Postman is necessary
 * Server must be up and running  
-* 
+
 ### How to run the collection
-1. Download the 'BreweryAPI.postman_collection' file from this repository.
+1. Download the 'Brewery API.postman_collection' file from this repository.
 2. Open Postman and choose any Workspace
 3. Import the Collection
 4. Click on the three dots menu that appear at the right of the Collection's name when you hover over it
